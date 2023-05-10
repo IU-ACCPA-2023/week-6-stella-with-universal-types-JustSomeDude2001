@@ -3,8 +3,7 @@ language core;
 extend with
   #universal-types;
 
-generic fn test[Y](y : Y) ->
-  fn(forall X. fn(X) -> (forall Y. fn(Y) -> X)) -> Y {
+generic fn test[Y](y : Y) -> fn(forall X. fn(X) -> (forall Y. fn(Y) -> X)) -> Y {
   return fn(f : forall X. fn(X) -> (forall Y. fn(Y) -> X)) {
     return f[Y](y)[Bool](true)
   }
