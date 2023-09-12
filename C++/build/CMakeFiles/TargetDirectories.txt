@@ -1,0 +1,5 @@
+/home/justsomedude/Documents/GitHub/week-1-typechecker-for-stella-core-JustSomeDude2001/C++/build/CMakeFiles/edit_cache.dir
+/home/justsomedude/Documents/GitHub/week-1-typechecker-for-stella-core-JustSomeDude2001/C++/build/CMakeFiles/package_source.dir
+/home/justsomedude/Documents/GitHub/week-1-typechecker-for-stella-core-JustSomeDude2001/C++/build/CMakeFiles/rebuild_cache.dir
+/home/justsomedude/Documents/GitHub/week-1-typechecker-for-stella-core-JustSomeDude2001/C++/build/CMakeFiles/package.dir
+/home/justsomedude/Documents/GitHub/week-1-typechecker-for-stella-core-JustSomeDude2001/C++/build/CMakeFiles/stella-interpreter.dir
